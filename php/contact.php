@@ -1,9 +1,9 @@
 <?php
 
-$TO = 'uness.informatique@gmail.com';
+$TO = 'lindalam400@gmail.com';
 
 //message the subject of the email
-$SUBJECT = 'Contact de menuiseriepieri.com';
+$SUBJECT = 'Contact from my website';
 $MSG_SEND_ERROR = 'Sorry, we can\'t send this message.';
 
 // Sender Info
